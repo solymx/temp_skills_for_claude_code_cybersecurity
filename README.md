@@ -5,6 +5,9 @@
   - Hindsight 讀的是瀏覽器的 SQLite 資料庫檔案(History、Cookies、Web Data、Login Data 等)。
 
 
+封包相關
+- https://github.com/mukul975/Anthropic-Cybersecurity-Skills/blob/main/skills/analyzing-command-and-control-communication/SKILL.md
+ - 讀取 pcap , 撈取 Cobalt Strike  和常見的 c2 資訊 
 
 
 無相關，威脅情資
